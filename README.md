@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gunahyeon/gunahyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
     </samp>
   </i>
 </h3>
-<h3 align="center">
+<!-- <h3 align="center">
   <i>
     <samp>
       > My projects are trusted :v: by thousands of developers all over the world.
@@ -111,7 +109,7 @@ Here are some ideas to get you started:
       </samp>
     </strong>
   </i>
-</p>
+</p> -->
 <h4></h4>
 <p align="center">
   <a href="https://github.com/gunahyeon/README.md/tree/main/templates/github-top-languages#gh-dark-mode-only">
