@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="center">
   <i>
     <samp>
-      > I am passionate :heart_on_fire: about open source software and giving back to others.&nbsp;
+      > There is only one thing in life you can control: Your own effort. :heart_on_fire:&nbsp;
     </samp>
   </i>
 </h3>
