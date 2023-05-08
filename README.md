@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   :wave: &nbsp;
   <i>
     <samp>
-      Hello World! I am <a target="_blank" href="https://surmon.me/about"><ins>Na Hyeon</ins></a>.
+      Hello World! I am <a target="_blank" href="https://github.com/gunahyeon"><ins>Na Hyeon</ins></a>.
     </samp>
   </i>
 </h3>
