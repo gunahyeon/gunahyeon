@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2></h2>
+<h2></h2> 
+<!--
 <h3 align="center">
   :wave: &nbsp;
   새로운 도전을 두려워하지 않고 열정적으로 성장하는 주니어 개발자 <a target="_blank" href="https://github.com/gunahyeon"><ins>구나현</ins></a>입니다.
 </h3>
+-->
 <h3 align="center">
   <i>
     <samp>
